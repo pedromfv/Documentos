@@ -23,8 +23,8 @@ O PortfolioHUB atua como um orquestrador centralizado para exibir e gerenciar pr
 
 ### Repositórios Integrados ao Ecossistema:
 1. **`pedromfv/pedromfv.github.io`** (Núcleo do PortfolioHUB - Ambiente de Produção)
-2. **`pedromfv/site-andre`** (Subprojeto - Aplicação Web Institucional em CSS)
-3. **`pedromfv/reimaginacao-starfox-snes`** (Subprojeto - Engine 3D e Jogo em Java)
+2. **`pedromfv/frequencies`** (Subprojeto - Aplicação Web Institucional em CSS)
+3. **`pedromfv/starfox-but-on-java`** (Subprojeto - Engine 3D e Jogo em Java)
 
 ---
 
